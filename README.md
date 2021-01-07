@@ -3,7 +3,7 @@
 
 ### Dataset 01
 ![GitHub Logo](/images/image1.png)
-<a href="https://github.com/ah0749/dh140/blob/main/images/image1.png" download>Click here to download</a>
+[GitHub](https://github.com/ah0749/dh140/blob/main/images/image1.png)
 
 ### Dataset 02
 ![GitHub Logo](/images/image2.png)
