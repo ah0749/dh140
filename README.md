@@ -3,7 +3,8 @@
 
 ### Dataset 01
 ![GitHub Logo](/images/image1.png)
-[GitHub](https://github.com/ah0749/dh140/blob/main/images/image1.png)
+[Dataset 01](https://github.com/ah0749/dh140/blob/main/images/image1.png)
 
 ### Dataset 02
 ![GitHub Logo](/images/image2.png)
+[Dataset 02](https://github.com/ah0749/dh140/blob/main/images/image2.png)
